@@ -1,17 +1,17 @@
 {
-  "name": "vmlyr-drupal/kit-docksal-commands",
+  "name": "vmlyr-ab-drupal/kit-docksal-commands",
   "description": "Docksal Commands for VMLYR Drupal KIT",
   "license": "GPL-2.0+",
   "type": "drupal-console",
-  "homepage": "https://github.com/VML/Drupal-KIT-Docksal-Commands",
+  "homepage": "https://github.com/MichaelAKuykendall/Drupal-KIT-Docksal-Commands",
   "authors": [
     {
-      "name": "Garrett Rathbone",
-      "email": "garrett.rathbone@vmlyr.com"
+      "name": "Mike Kuykendall",
+      "email": "mike.kuykendall@vmlyr.com"
     }
   ],
   "require": {
     "composer/installers": "^1.8",
-    "vmlyr-drupal/kit-drush-commands": "^8.0"
+    "vmlyr-ab-drupal/kit-drush-commands": "^8.0"
   }
 }
