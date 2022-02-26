@@ -12,6 +12,6 @@
   ],
   "require": {
     "composer/installers": "^1.8",
-    "vmlyr-ab-drupal/kit-drush-commands": "^8.0"
+    "vmlyr-ab-drupal/kit-drush-commands": "dev-master"
   }
 }
